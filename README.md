@@ -1,6 +1,6 @@
 # nms-metrics-script
 
-##Sample output: 
+## Sample output: 
 
 ```
 # bash fetch_metrics.sh
